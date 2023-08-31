@@ -580,7 +580,7 @@ contact.html
                 </div>
                 <div class="footer">
                 <footer style="color:white">
-                Copyright &copy;2022 Developed by Kavinesh M</footer></div>
+                Copyright &copy;2022 Developed by Sasidevi V</footer></div>
             </div>
         </div>
     </body>
